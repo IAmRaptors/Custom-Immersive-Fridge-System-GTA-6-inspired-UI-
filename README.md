@@ -17,7 +17,6 @@ FEATURES
 COMPATIBILITY — autodetects at startup, no dependencies
 • Inventory: ox_inventory / qb-core (qb, ps, lj inventories) / es_extended
 • Target: ox_target / qb-target / qtarget / built-in [E] prompt fallback
-• Whitelist auto-merges vms_needs, fs-shops, prompt_anim_core_2_new catalogs
 
 TRANSFERS ARE DUPE-SAFE
 The server verifies item counts actually moved before touching fridge
